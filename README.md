@@ -1,2 +1,3 @@
-# Binary-Tree-in-C-
+# A-class-for-Binary-Tree-in-C-plus-plus
 A C++ class for BinaryTree which contains basic codes for using BinaryTree like creating binary tree from scratch, taking care of null values, traversing it, etc.
+There is no STL library in C++ for binary tree which can make tasks like writing codes for, creating binary tree from scratch every time we need it, traversing it and some common functions related to binary tree very boring and wastage of time. Here is a C++ class called BinaryTree which got you covered for the basic codes we may need as programmers and hence we can use our grey matter to think of algorithms to solve really difficult problems using binary tree.
